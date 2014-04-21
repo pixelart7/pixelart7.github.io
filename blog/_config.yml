@@ -2,7 +2,7 @@ name: Herring Cove
 author: Herring Cove
 markdown: redcarpet
 pygments: false
-baseurl: /blog
+baseurl: http://pixelart7.github.io/blog/
 description: theme for jekyll
 github: http://www.github.com/arnp
 twitter: http://www.twitter.com/
