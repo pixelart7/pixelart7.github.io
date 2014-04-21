@@ -1,7 +1,7 @@
 name: Herring Cove
 author: Herring Cove
 markdown: redcarpet
-pygments: true
+pygments: false
 baseurl: /blog
 description: theme for jekyll
 github: http://www.github.com/arnp
