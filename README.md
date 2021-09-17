@@ -1,1 +1,1 @@
-Using this repo only to host [pixelart7.github.io](https://pixelart7.github.io). Will move source code from source repo to this `main` branch later.
+Using this repo only to host [pixelart7.github.io](https://pixelart7.github.io). Source code: [pixelart7/chaiyapat-cv-vite](https://github.com/pixelart7/chaiyapat-cv-vite)
